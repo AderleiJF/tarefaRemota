@@ -1,2 +1,2 @@
 # tarefaRemota
-Repositorio para pratica de aula 02 de Estrateias e Ferramentas de Versionamento
+Repositorio para pratica de aula 02 de Estrategias e Ferramentas de Versionamento
